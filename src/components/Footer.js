@@ -30,26 +30,30 @@ export default function Footer() {
                   <h4 className="footer-title">Navigation</h4>
                   <nav>
                     <ul>
-                      <li>
-                        <a href="AboutUs">About</a>
+
+                      <li >
+                        <a href="#">ABOUT US</a>
                       </li>
                       <li>
-                        <a href="LifeStyle">LifeStyle</a>
+                        <a href="#">LIFESTYLE</a>
                       </li>
                       <li>
-                        <a href="Shop">Shop</a>
+                        <a href="#">OUR PROCESS</a>
                       </li>
                       <li>
-                        <a href="Nft">NFT</a>
+                        <a href="#">SHOP</a>
                       </li>
                       <li>
-                        <a href="our-process">Our Process</a>
+                        <a href="#">COCKTAILS</a>
                       </li>
                       <li>
-                        <a href="Events">Events</a>
+                        <a href="#">NFT</a>
                       </li>
                       <li>
-                        <a href="contact">Contact</a>
+                        <a href="#">EVENTS</a>
+                      </li>
+                      <li>
+                        <a href="#">CONTACT</a>
                       </li>
                     </ul>
                   </nav>

@@ -26,32 +26,33 @@ export default function Header() {
           <nav className=" accent-menu main-navigation">
             <ul className="extend-container">
               <li>
-                <a href="/">HOME</a>
+                <a href="#">HOME</a>
               </li>
               <li >
-                <a href="AboutUs">ABOUT US</a>
+                <a href="#">ABOUT US</a>
               </li>
               <li>
-                <a href="LifeStyle">LIFESTYLE</a>
+                <a href="#">LIFESTYLE</a>
               </li>
               <li>
-                <a href="our-process">OUR PROCESS</a>
+                <a href="#">OUR PROCESS</a>
               </li>
               <li>
-                <a href="Shop">SHOP</a>
+                <a href="#">SHOP</a>
               </li>
               <li>
-                <a href="Cocktails">COCKTAILS</a>
+                <a href="#">COCKTAILS</a>
               </li>
               <li>
-                <a href="Nft">NFT</a>
+                <a href="#">NFT</a>
               </li>
               <li>
-                <a href="Events">EVENTS</a>
+                <a href="#">EVENTS</a>
               </li>
               <li>
-                <a href="contact">CONTACT</a>
+                <a href="#">CONTACT</a>
               </li>
+
             </ul>
           </nav>
         </div>
